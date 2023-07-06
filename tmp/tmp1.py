@@ -16,3 +16,6 @@ def pool2d(X, pool_size, mode='max'):
 X = torch.tensor([[0.0, 1.0, 2.0], [3.0, 4.0, 5.0], [6.0, 7.0, 8.0]])
 print(pool2d(X, (2,2)))
 
+104
+台湾台北市中山區
+台北大学台北校区
